@@ -1,4 +1,7 @@
 # Pokermon
+Must do!
+Pillow Package muss in Visual Studio Code installiert sein
+
 1.	Beschreibung des Programms
 Das Programm Pokermon startet mit der Auswahl zweier Pokermon, von denen man sich über die eingefügten Infobuttons in der Terminausgabe anzeigen lassen kann welche Fähigkeiten und Attribute diesen Pokermons zugewiesen sind. Aufgrund dieser Attribute soll der Spieler per Mausklick auf das entsprechende Pokermon entscheiden welches er gerne spielen möchte.
 Im zweiten Grundkonstrukt des Spiels wird der Spieler in die Kampfsituation befördert, welche sich aus der Anzeige beider Pokermons, der HP-Balken (Grün = eigene HP, Gelb = Gegner HP) und der Buttons für die unterschiedlichen Attacken zusammensetzt. Sobald einer der Buttons gedrückt wird erfolgt je nach Fähigkeit eine Animation der Pokermons, die Lebensbalken verändern sich und es kommt zu einer kurzen Deklarierung des geschehenen über die Terminalausgabe.
