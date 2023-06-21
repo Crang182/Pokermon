@@ -1,6 +1,7 @@
 # Pokermon
 Must do!
-Pillow Package muss in Visual Studio Code installiert sein
+Pillow Package muss in Visual Studio Code installiert werden.
+Falls die Pfade nicht erkannt werden können, muss ggfs. der ganze Pfad im Code angegeben werden.
 
 1.	Beschreibung des Programms
 Das Programm Pokermon startet mit der Auswahl zweier Pokermon, von denen man sich über die eingefügten Infobuttons in der Terminausgabe anzeigen lassen kann welche Fähigkeiten und Attribute diesen Pokermons zugewiesen sind. Aufgrund dieser Attribute soll der Spieler per Mausklick auf das entsprechende Pokermon entscheiden welches er gerne spielen möchte.
